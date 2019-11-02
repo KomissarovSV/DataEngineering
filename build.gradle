@@ -2,10 +2,10 @@ plugins {
     id 'java'
 }
 
-group 'fuse'
+group 'data.engineering'
 version '1.0-SNAPSHOT'
 
-sourceCompatibility = 1.8
+sourceCompatibility = 1.11
 
 repositories {
     mavenCentral()
